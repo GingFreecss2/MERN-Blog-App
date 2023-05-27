@@ -41,11 +41,11 @@ Welcome to the Blog App! This is a web application built using JavaScript, React
 ![Home Page](screenshots/home.png)
 
 ### Article Details
-![Article Details](screenshots/article2.png)
+![Article Details](screenshots/article2.PNG)
 
 ### Edit Button for Authors
 - Authors of articles have the ability to edit their own articles.
-![User Registration](screenshots/article1.png)
+![User Registration](screenshots/article1.PNG)
 
 ## Acknowledgements
 - [React](https://reactjs.org/)
